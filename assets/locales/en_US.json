@@ -1,0 +1,68 @@
+{
+  "app_name": "Hello Data - BPS Buol",
+  "button": {
+    "download": "Download",
+    "search": "Search",
+    "cancel": "Cancel",
+    "try_again": "Try Again"
+  },
+  "error": {
+    "not_found": "Data not found!"
+  },
+  "label": {
+    "created_at": "Created At",
+    "file_size": "File Size",
+    "updated_at": "Updated At",
+    "created_by": "Created By",
+    "subject": "Subject",
+    "issn": "ISSN/ISBN",
+    "abstract": "Abstract",
+    "publication_number": "Publication Number",
+    "catalogue_number": "Catalogue Number",
+    "release_schedule": "Release Schedule",
+    "release_date": "Release Date",
+    "strategic_indicator": "Strategic Indicator - Central Sulawesi Province",
+    "showing": "Showing",
+    "load_more": "Load more data!",
+    "source": "Source : "
+  },
+  "select_language": "Select Language",
+  "language": {
+    "indonesia": "Bahasa Indonesia",
+    "english": "English"
+  },
+  "menu": {
+    "publication": "Publications",
+    "data": "Data",
+    "faq": "FAQ",
+    "live_chat": "Live Chat",
+    "table": "Table",
+    "infographic": "Infographics",
+    "news": "News",
+    "press_release": "Press Release",
+    "answers": "Answers"
+  },
+  "coming_soon": "Coming Soon",
+  "unavailable_feature": "Feature unavailable at the moment!",
+  "page": {
+    "forum": "Forum",
+    "publication": "Publication",
+    "publication_detail": "Publication Detail",
+    "data": "Data",
+    "data_detail": "Data Detail",
+    "create_thread": "Create Thread"
+  },
+  "filter": {
+    "label": "Filter: ",
+    "all_year": "All Years"
+  },
+  "results": "results",
+  "failed": "Failed!",
+  "success": "Success!",
+  "download": {
+    "starting": "Download started!",
+    "title": "Downloading!",
+    "failed": "Download failed!",
+    "success": "Download success!"
+  }
+}

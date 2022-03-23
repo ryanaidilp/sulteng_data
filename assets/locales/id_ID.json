@@ -1,0 +1,68 @@
+{
+  "app_name": "Halo Data - BPS Buol",
+  "button": {
+    "download": "Unduh",
+    "search": "Cari",
+    "cancel": "Batal",
+    "try_again": "Coba Lagi"
+  },
+  "error": {
+    "not_found": "Data tidak ditemukan!"
+  },
+  "label": {
+    "created_at": "Dibuat",
+    "file_size": "Ukuran File",
+    "updated_at": "Diperbarui",
+    "created_by": "Oleh",
+    "subject": "Subjek",
+    "issn": "ISSN/ISBN",
+    "abstract": "Abstrak",
+    "publication_number": "No Publikasi",
+    "catalogue_number": "No Katalog",
+    "release_schedule": "Jadwal Rilis",
+    "release_date": "Tanggal Rilis",
+    "strategic_indicator": "Indikator Strategis - Provinsi Sulawesi Tengah",
+    "showing": "Menampilkan",
+    "load_more": "Memuat lebih banyak data!",
+    "source": "Sumber : "
+  },
+  "select_language": "Pilih Bahasa",
+  "language": {
+    "indonesia": "Bahasa Indonesia",
+    "english": "Bahasa Inggris"
+  },
+  "menu": {
+    "publication": "Publikasi",
+    "data": "Data",
+    "faq": "FAQ",
+    "live_chat": "Live Chat",
+    "table": "Tabel",
+    "infographic": "Infografis",
+    "news": "Berita",
+    "press_release": "Rilis",
+    "answers": "Jawaban"
+  },
+  "coming_soon": "Akan Datang",
+  "unavailable_feature": "Fitur belum tersedia!",
+  "page": {
+    "forum": "Forum",
+    "publication": "Publikasi",
+    "publication_detail": "Detail Publikasi",
+    "data": "Data",
+    "data_detail": "Detail Data",
+    "create_thread": "Buat Utas"
+  },
+  "filter": {
+    "label": "Filter: ",
+    "all_year": "Semua Tahun"
+  },
+  "results": "hasil",
+  "failed": "Gagal!",
+  "success": "Berhasil!",
+  "download": {
+    "starting": "Unduhan dimulai!",
+    "title": "Mengunduh!",
+    "failed": "Unduhan gagal!",
+    "success": "Unduhan berhasil!"
+  }
+}
