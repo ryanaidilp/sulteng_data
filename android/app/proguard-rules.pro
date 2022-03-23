@@ -1,0 +1,1 @@
+-keep class id.go.bps.buolkab.halo_data.BuildConfig { *; }
